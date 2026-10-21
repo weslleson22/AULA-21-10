@@ -4,6 +4,9 @@
 # Quantidade total de alunos (altere para 3 ou 5 se quiser testar mais rápido)
 TOTAL_ALUNOS = 20
 
+
+#TESTE
+
 alunos = []
 
 print("=== ENTRADA DE DADOS DOS ALUNOS ===")
