@@ -1,8 +1,7 @@
-# Algoritmo em Python: Cadastro de 20 alunos
-# Recebe nome, nota e idade de 20 alunos e apresenta quem é maior de idade na tela.
+# Algoritmo em Python: Cadastro de 2 alunos
+# Recebe nome, nota e idade de 2 alunos e apresenta quem é maior de idade na tela.
 
-# Quantidade total de alunos (altere para 3 ou 5 se quiser testar mais rápido)
-TOTAL_ALUNOS = 20
+TOTAL_ALUNOS = 2
 
 
 #TESTE
